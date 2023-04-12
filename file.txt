@@ -1,0 +1,117 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/web.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="warpper">
+      <header>
+        <!--START-HEATDER-TOP-SECTION-->
+        <div class="header-top">
+          <div>
+            <ul>
+              <li>
+                <a href="">Giris Yapiniz</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!--END-OF-HEADER-TOP-->
+        <!--START-MIDDLE-SECTION-->
+        <div class="header-middle">
+          <div>
+            <div class="logo">
+              <a href="">
+                <img src="/resim/icons/ok.png" class="logo-img" alt=""
+              /></a>
+            </div>
+          </div>
+        </div>
+        <!--END-OF-HEADER-MIDDLE-->
+        <!--START-NAVIGATION-->
+        <div>
+          <nav>
+            <div class="container">
+              <div class="header-top-search">
+                <input type="text" id="search-bar" />
+                <span class="input-group-addon"
+                  ><i class="fa fa-search"></i
+                ></span>
+              </div>
+            </div>
+            <div>
+              <ul>
+                <li><a href="">ANASAYFA</a></li>
+                <li><a href="">HABERLER</a></li>
+                <li><a href="">EKIP UYESI ALIMLARI</a></li>
+                <li><a href="">ILETISIM</a></li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+        <!--END-OF-NAVIGATION-->
+      </header>
+    </div>
+  </body>
+</html><html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/web.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="warpper">
+      <header>
+        <!--START-HEATDER-TOP-SECTION-->
+        <div class="header-top">
+          <div>
+            <ul>
+              <li>
+                <a href="">Giris Yapiniz</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!--END-OF-HEADER-TOP-->
+        <!--START-MIDDLE-SECTION-->
+        <div class="header-middle">
+          <div>
+            <div class="logo">
+              <a href="">
+                <img src="/resim/icons/ok.png" class="logo-img" alt=""
+              /></a>
+            </div>
+          </div>
+        </div>
+        <!--END-OF-HEADER-MIDDLE-->
+        <!--START-NAVIGATION-->
+        <div>
+          <nav>
+            <div class="container">
+              <div class="header-top-search">
+                <input type="text" id="search-bar" />
+                <span class="input-group-addon"
+                  ><i class="fa fa-search"></i
+                ></span>
+              </div>
+            </div>
+            <div>
+              <ul>
+                <li><a href="">ANASAYFA</a></li>
+                <li><a href="">HABERLER</a></li>
+                <li><a href="">EKIP UYESI ALIMLARI</a></li>
+                <li><a href="">ILETISIM</a></li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+        <!--END-OF-NAVIGATION-->
+      </header>
+    </div>
+  </body>
+</html>
